@@ -1,0 +1,244 @@
+RVCONCEPT	SEM_GRP	CUI	PT	STR
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	"[x] mental and behavioral disorders due to use of opioids: withdrawal state (& [cold turkey, opiate withdrawal])"
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	"[x] mental and behavioural disorders due to use of opioids: withdrawal state (& [cold turkey, opiate withdrawal])"
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	"[x] mental and behavioural disorders due to use of opioids: withdrawal state (& [cold turkey, opiate withdrawal]) (disorder)"
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	"[x]cold turkey, opiate withdrawal"
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	[x]mental and behav dis due to use opioids: withdrawal state
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	[x]mental and behavioral disorders due to use of opioids: withdrawal state
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	[x]mental and behavioral disorders due to use of opioids: withdrawal state (disorder)
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	[x]mental and behavioural disorders due to use of opioids: withdrawal state
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	[x]opioid withthdrawal state
+DETOX_DRUG	PROC	C0700570	Drug addiction therapy	addiction drug therapies
+DETOX_DRUG	PROC	C0700570	Drug addiction therapy	addiction drug therapy
+DETOX_DRUG	PROC	C3695291	addiction therapy	addiction therapy
+DETOX_DRUG	PROC	C0150543	Detoxification	alcohol or other drugs detoxification
+DETOX_DRUG	PROC	C0150543	Detoxification	aod detoxification
+DETOX_DRUG	PROC	C0150543	Detoxification	detoxication therapy
+DETOX_DRUG	PROC	C0150543	Detoxification	"detoxication therapy, nos"
+DETOX_DRUG	PROC	C0150543	Detoxification	detoxification
+DETOX_DRUG	PROC	C0150543	Detoxification	detoxification method
+DETOX_DRUG	PROC	C0150543	Detoxification	detoxification nos
+DETOX_DRUG	PROC	C0150543	Detoxification	detoxification procedure
+DETOX_DRUG	PROC	C0150543	Detoxification	detoxification therapy
+DETOX_DRUG	PROC	C0150543	Detoxification	detoxifications
+DETOX_DRUG	PROC	C0700570	Drug addiction therapy	drug addiction therapy
+DETOX_DRUG	PROC	C0204601	DRUG REHABILITATION	drug rehab
+DETOX_DRUG	PROC	C0204601	DRUG REHABILITATION	drug rehabilitation
+DETOX_DRUG	PROC	C0204601	DRUG REHABILITATION	drug rehabilitation procedure
+DETOX_DRUG	PROC	C0204601	DRUG REHABILITATION	drug rehabilitations
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	drug withdrawal syndrome to opium
+DETOX_DRUG	PROC	C4039200	Management of withdrawal symptom	management of withdrawal symptom
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	mental and behav dis due to use opioids: withdrawal state
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	"mental and behavioral disorders due to use of opioids, withdrawal state"
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	mental and behavioral disorders due to use of opioids: withdrawal state
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	"mental and behavioural disorders due to use of opioids, withdrawal state"
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	mental and behavioural disorders due to use of opioids: withdrawal state
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	narcotic withdrawal
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	narcotics withdrawal
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	opioid withdrawal
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	opioid withthdrawal state
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	opioids; withdrawal state
+DETOX_DRUG	PROC	C2551443		substance abuse treatment (therapy)
+DETOX_DRUG	PROC	C1827751	Substance use treatment: cessation	substance use cessation treatments and procedures
+DETOX_DRUG	PROC	C0150359	Substance use therapy	substance use therapy
+DETOX_DRUG	PROC	C3693405	substance use therapy - cessation	substance use therapy - cessation
+DETOX_DRUG	PROC	C3693404	substance use therapy for alcohol withdrawal	substance use therapy for alcohol withdrawal
+DETOX_DRUG	PROC	C3693403	substance use therapy for drug withdrawal	substance use therapy for drug withdrawal
+DETOX_DRUG	PROC	C3693402	substance use therapy for overdose	substance use therapy for overdose
+DETOX_DRUG	PROC	C0150359	Substance use therapy	substance use treatment
+DETOX_DRUG	PROC	C1827751	Substance use treatment: cessation	substance use treatment: cessation
+DETOX_DRUG	PROC	C0150361	Substance use treatment: drug withdrawal	substance use treatment: drug withdrawal
+DETOX_DRUG	PROC	C0150362	Substance use treatment: overdose	substance use treatment: overdose
+DETOX_DRUG	PROC	C0150359	Substance use therapy	substance use treatments and procedures
+DETOX_DRUG	PROC	C0700570	Drug addiction therapy	therapy drug addiction
+DETOX_DRUG	DISO	C0548966		withdrawal from addictive substance; detoxification
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	withdrawal narcotic
+DETOX_DRUG	DISO	C0029104	"Mental and behavioral disorders due to use of opioids, withdrawal state"	withdrawal state; opioids
+FOOD_INSECURE	DISO	C0564285	Difficulty obtaining food	difficulty obtaining food
+FOOD_INSECURE	DISO	C0564284	Does not obtain food	does not obtain food
+FOOD_INSECURE	DISO	C3494174	Food insecurity	food insecurities
+FOOD_INSECURE	DISO	C3494174	Food insecurity	food insecurity
+FOOD_INSECURE	DISO	C3494174	Food insecurity	"insecurities, food"
+FOOD_INSECURE	DISO	C3494174	Food insecurity	"insecurity, food"
+FOOD_INSECURE	DISO	C3873648	Insufficient food supply	insufficient food supply
+FOOD_INSECURE	DISO	C3873648	Insufficient food supply	lack of food supply
+FOOD_INSECURE	DISO	C3853106	Nutrition impaired due to limited access to healthful foods	nutrition impaired due to limited access to healthful foods
+FOOD_INSECURE	DISO	C0564282	Unable to obtain food	unable to obtain food
+HOUSE_INSTABLE	DISO	C0237154	HOMELESS	(housing lack) or (homeless)
+HOUSE_INSTABLE	LIVB	C0038077	Lives in squat	[squatter] or [illegal tennant]
+HOUSE_INSTABLE	DISO	C1287167	Temporary shelter arrangements - finding	finding of temporary shelter arrangements
+HOUSE_INSTABLE	DISO	C0237154	HOMELESS	homeless
+HOUSE_INSTABLE	LIVB	C0038077	Lives in squat	homeless - lives in squat
+HOUSE_INSTABLE	LIVB	C0425242	Homeless single person	homeless individual
+HOUSE_INSTABLE	LIVB	C0019863	Homeless person	homeless person
+HOUSE_INSTABLE	LIVB	C0019863	Homeless person	homeless persons
+HOUSE_INSTABLE	LIVB	C0425242	Homeless single person	homeless single person
+HOUSE_INSTABLE	DISO	C0237154	HOMELESS	homelessness
+HOUSE_INSTABLE	DISO	C0237154	HOMELESS	housing lack
+HOUSE_INSTABLE	DISO	C0237154	HOMELESS	housing lack nos
+HOUSE_INSTABLE	DISO	C0237154	HOMELESS	housing; lack of
+HOUSE_INSTABLE	DISO	C0237154	HOMELESS	lack (of);housing
+HOUSE_INSTABLE	DISO	C0237154	HOMELESS	lack of housing
+HOUSE_INSTABLE	DISO	C0237154	HOMELESS	lack of; housing
+HOUSE_INSTABLE	DISO	C0237154	HOMELESS	lack of; shelter
+HOUSE_INSTABLE	LIVB	C0038077	Lives in squat	lives in squat
+HOUSE_INSTABLE	DISO	C1320360	Living temporarily with relatives	lives temporarily with relatives
+HOUSE_INSTABLE	ACTI	C0337661	Living in temporary quarters	living in temporary quarters
+HOUSE_INSTABLE	DISO	C0237154	HOMELESS	living on the street
+HOUSE_INSTABLE	DISO	C0557220	Living rough	living rough
+HOUSE_INSTABLE	DISO	C1320360	Living temporarily with relatives	living temporarily with relatives
+HOUSE_INSTABLE	DISO	C0557221	Sleeping out	out sleeping
+HOUSE_INSTABLE	LIVB	C0019863	Homeless person	"person, homeless"
+HOUSE_INSTABLE	LIVB	C0019863	Homeless person	"persons, homeless"
+HOUSE_INSTABLE	DISO	C0237154	HOMELESS	shelter; lack of
+HOUSE_INSTABLE	LIVB	C0425242	Homeless single person	single homeless person
+HOUSE_INSTABLE	DISO	C0557224	Sleeping at friends home	sleeping at friends home
+HOUSE_INSTABLE	DISO	C0557223	Sleeping in night shelter	sleeping in night shelter
+HOUSE_INSTABLE	DISO	C0557225	Sleeping in vehicle	sleeping in vehicle
+HOUSE_INSTABLE	DISO	C0557221	Sleeping out	sleeping rough
+HOUSE_INSTABLE	LIVB	C0038077	Lives in squat	squatter
+HOUSE_INSTABLE	LIVB	C0038077	Lives in squat	squatters
+HOUSE_INSTABLE	DISO	C0557222	Temporary shelter arrangements	temporary shelter arrangements
+JUSTICE	DISO	C0476640	Problem related to release from prison	[v]prob reltd/releas fm prison
+JUSTICE	DISO	C0476640	Problem related to release from prison	[v]problems related to release from prison
+JUSTICE	DISO	C0557332	Acquitted from criminal charge	acquitted from criminal charge
+JUSTICE	DISO	C0557322	Arrest by police	arrest by police
+JUSTICE	DISO	C0557322	Arrest by police	arrested by police
+JUSTICE	DISO	C0555032	Arrested in police custody	arrested in police custody
+JUSTICE	DISO	C0578842	Charged with crime	charged with crime
+JUSTICE	DISO	C0557331	Convicted for criminal activity	convictd for criminal activity
+JUSTICE	DISO	C0557331	Convicted for criminal activity	convicted for criminal activity
+JUSTICE	LIVB	C0033167	"Prisoner, NOS"	correctional institution resident
+JUSTICE	DISO	C0425146	Has a prison record	has a prison record
+JUSTICE	DISO	C0392751	INCARCERATED	imprisoned
+JUSTICE	DISO	C0425146	Has a prison record	imprisonment record
+JUSTICE	DISO	C0392751	INCARCERATED	in jail
+JUSTICE	DISO	C0392751	INCARCERATED	in prison
+JUSTICE	DISO	C0392751	INCARCERATED	incarcerate
+JUSTICE	DISO	C0392751	INCARCERATED	incarcerated
+JUSTICE	LIVB	C0033167	"Prisoner, NOS"	inmates (prison)
+JUSTICE	LIVB	C0033167	"Prisoner, NOS"	inmates prison
+JUSTICE	DISO	C0578903	Involved in criminal law proceedings	involvd in crim law proceedngs
+JUSTICE	DISO	C0578903	Involved in criminal law proceedings	involved in criminal law proceedings
+JUSTICE	LIVB	C0033167	"Prisoner, NOS"	jail inmate
+JUSTICE	DISO	C1532828	On conditional probation	on conditional probation
+JUSTICE	LIVB	C0033167	"Prisoner, NOS"	prison inmate
+JUSTICE	LIVB	C0033167	"Prisoner, NOS"	prison inmates
+JUSTICE	DISO	C0425146	Has a prison record	prison record
+JUSTICE	DISO	C0392751	INCARCERATED	prison sentence
+JUSTICE	LIVB	C0033167	"Prisoner, NOS"	prisoner
+JUSTICE	LIVB	C0033167	"Prisoner, NOS"	"prisoner, nos"
+JUSTICE	LIVB	C0033167	"Prisoner, NOS"	prisoners
+JUSTICE	DISO	C0476640	Problem related to release from prison	prob reltd/releas fm prison
+JUSTICE	DISO	C0476640	Problem related to release from prison	problem related to release from prison
+JUSTICE	DISO	C0476640	Problem related to release from prison	problem; release from prison
+JUSTICE	DISO	C0476640	Problem related to release from prison	problems related to release from prison
+JUSTICE	DISO	C0557330	Prosecution impending	prosecution impending
+JUSTICE	DISO	C0476640	Problem related to release from prison	release from prison; problem
+JUSTICE	DISO	C0476640	Problem related to release from prison	release; prison
+JUSTICE	DISO	C0425147	Released from prison	released from prison
+JUSTICE	DISO	C0557327	Released on bail	released on bail
+JUSTICE	DISO	C4076475	Young offender	young offender
+MST	DISO	C4273462	Adult victim of sexual abuse during military service	adult victim of sexual abuse during military service
+SOCIAL_CONNECT	DISO	C2364105	Inadequate social support	actual lack of social support
+SOCIAL_CONNECT_RS	DISO	C0555051	Cohabitee Left Home	cohabitee left home
+SOCIAL_CONNECT	DISO	C1827529	Difficulty establishing relationships	difficulty establishing relationships
+SOCIAL_CONNECT	DISO	C1827663	Difficulty maintaining relationships	difficulty maintaining relationships
+SOCIAL_CONNECT_RS	DISO	C0555025	Divorce problems	divorce (& problems)
+SOCIAL_CONNECT_RS	DISO	C0555025	Divorce problems	divorce problems
+SOCIAL_CONNECT_RS	DISO	C0555025	Divorce problems	"divorce problems, life event"
+SOCIAL_CONNECT_RS	DISO	C0581888	Divorce proceedings pending	divorce proceedings pending
+SOCIAL_CONNECT_RS	DISO	C0581888	Divorce proceedings pending	"divorce proceedings pending, life event"
+SOCIAL_CONNECT	DISO	C0023974	Feeling lonely	feeling lonely
+SOCIAL_CONNECT	DISO	C0023974	Feeling lonely	feeling;lonely
+SOCIAL_CONNECT_RS	DISO	C0555049	Husband Left Home	husband left home
+SOCIAL_CONNECT	DISO	C1400446	Inadequate social skills	inadequate social skills
+SOCIAL_CONNECT	DISO	C2364105	Inadequate social support	inadequate social support
+SOCIAL_CONNECT	DISO	C1400446	Inadequate social skills	inadequate; social skills
+SOCIAL_CONNECT	DISO	C2364078	Lack Of Family Support	lack of family support
+SOCIAL_CONNECT	DISO	C2364105	Inadequate social support	lack of social support
+SOCIAL_CONNECT	DISO	C1827999	Lacks emotional support	lacks emotional support
+SOCIAL_CONNECT	DISO	C1827999	Lacks emotional support	lacks emotional support (finding)
+SOCIAL_CONNECT	DISO	C0425198	Lives alone - help available	lives alone - help available
+SOCIAL_CONNECT	DISO	C0425198	Lives alone - help available	lives alone - help available (finding)
+SOCIAL_CONNECT	DISO	C0023974	Feeling lonely	loneliness
+SOCIAL_CONNECT	DISO	C0023974	Feeling lonely	lonely
+SOCIAL_CONNECT	DISO	C0424095	Social withdrawal	loss of interest in or fear of meeting people
+SOCIAL_CONNECT_RS	ACTI	C0237868	Marital Separation	marital separation
+SOCIAL_CONNECT_RS	ACTI	C0237868	Marital Separation	"marital separation, life event"
+SOCIAL_CONNECT	DISO	C1827590	Minimal outside social stimulation	minimal outside social stimulation
+SOCIAL_CONNECT	DISO	C0237180	Minimal shared activities	minimal shared activities
+SOCIAL_CONNECT	DISO	C2711319	No contact with family	no contact with family
+SOCIAL_CONNECT	PHEN	C0524322	Personal relationship breakdown	personal relationship breakdown
+SOCIAL_CONNECT	DISO	C0578849	Poor family relationship	poor family relationship
+SOCIAL_CONNECT	DISO	C3853123	Receives a little social support	receives a little social support
+SOCIAL_CONNECT	DISO	C3853122	Receives as much social support as wanted	receives as much social support as wanted
+SOCIAL_CONNECT	DISO	C3853124	Receives no social support	receives no social support
+SOCIAL_CONNECT	DISO	C0237827	Social exclusion	rejection (social)
+SOCIAL_CONNECT	DISO	C0237827	Social exclusion	"rejection, social"
+SOCIAL_CONNECT	PHEN	C0524322	Personal relationship breakdown	relationship breakdown
+SOCIAL_CONNECT	DISO	C1268628	At risk for loneliness	risk for loneliness
+SOCIAL_CONNECT_RS	DISO	C0086972	Separated from Cohabitee	separated from cohabitee
+SOCIAL_CONNECT_RS	ACTI	C0237868	Marital Separation	separation
+SOCIAL_CONNECT_RS	ACTI	C0237868	Marital Separation	"separation, nos"
+SOCIAL_CONNECT_RS	ACTI	C0237868	Marital Separation	separations
+SOCIAL_CONNECT	DISO	C1400446	Inadequate social skills	"skills; social, inadequate"
+SOCIAL_CONNECT	DISO	C0237827	Social exclusion	social exclusion
+SOCIAL_CONNECT	DISO	C0237180	Minimal shared activities	social interaction impairment minimal shared activities
+SOCIAL_CONNECT	DISO	C1760167	Social outcast	social outcast
+SOCIAL_CONNECT	DISO	C0237827	Social exclusion	social rejection
+SOCIAL_CONNECT	DISO	C0237827	Social exclusion	social rejections
+SOCIAL_CONNECT	DISO	C0424095	Social withdrawal	social withdrawal
+SOCIAL_CONNECT	DISO	C0237827	Social exclusion	social; exclusion
+SOCIAL_CONNECT_RS	DISO	C0555028	Spouse Left Home	spouse left home
+SOCIAL_CONNECT_RS	DISO	C0234004	Trial Separation	trial separation
+SOCIAL_CONNECT_RS	DISO	C0555050	Wife Left Home	wife left home
+SOCIAL_CONNECT	DISO	C0424095	Social withdrawal	withdrawal from social contacts
+SOCIAL_CONNECT	DISO	C0424095	Social withdrawal	withdrawal;social
+SOCIAL_CONNECT	DISO	C0424095	Social withdrawal	withdrawn from social contacts
+JOB_INSTABLE	DISO	C0581900	Chronic unemployment	chronic unemployment
+JOB_INSTABLE	DISO	C0014007	Dismissal	discharged from duty
+JOB_INSTABLE	DISO	C0014007	Dismissal	discharged from job
+JOB_INSTABLE	DISO	C0014007	Dismissal	dismissal from employment
+JOB_INSTABLE	DISO	C0014007	Dismissal	dismissed from job
+JOB_INSTABLE	DISO	C0014007	Dismissal	dismissed from job (finding)
+JOB_INSTABLE	DISO	C0041674	NOT EMPLOYED	does not work
+JOB_INSTABLE	DISO	C0041674	NOT EMPLOYED	doesn't work
+JOB_INSTABLE	DISO	C0041674	NOT EMPLOYED	don't work
+JOB_INSTABLE	DISO	C0014007	Dismissal	employment termination
+JOB_INSTABLE	DISO	C0014007	Dismissal	fired
+JOB_INSTABLE	DISO	C0425083	Loss of employment	job loss
+JOB_INSTABLE	DISO	C0425083	Loss of employment	job losses
+JOB_INSTABLE	DISO	C0041674	NOT EMPLOYED	jobless
+JOB_INSTABLE	DISO	C0041674	NOT EMPLOYED	joblessness
+JOB_INSTABLE	DISO	C0425083	Loss of employment	loss of employment
+JOB_INSTABLE	DISO	C0425083	Loss of employment	loss of job
+JOB_INSTABLE	DISO	C0425083	Loss of employment	lost job
+JOB_INSTABLE	DISO	C0425087	Made redundant	made redundant
+JOB_INSTABLE	DISO	C0041674	NOT EMPLOYED	not employed
+JOB_INSTABLE	DISO	C0041674	NOT EMPLOYED	out of work
+JOB_INSTABLE	DISO	C0041674	NOT EMPLOYED	out work
+JOB_INSTABLE	DISO	C0041674	NOT EMPLOYED	out working
+JOB_INSTABLE	DISO	C0581899	Recently unemployed	recently unemployed
+JOB_INSTABLE	DISO	C0014007	Dismissal	sacked from job
+JOB_INSTABLE	DISO	C0014007	Dismissal	sacked from work
+JOB_INSTABLE	DISO	C0014007	Dismissal	termination of employment
+JOB_INSTABLE	DISO	C0014007	Dismissal	"termination, employment"
+JOB_INSTABLE	DISO	C0041674	NOT EMPLOYED	u/e - unemployed
+JOB_INSTABLE	DISO	C0041674	NOT EMPLOYED	ue - unemployed
+JOB_INSTABLE	DISO	C0041674	NOT EMPLOYED	unemployed
+JOB_INSTABLE	DISO	C0041674	NOT EMPLOYED	unemployment
+JOB_INSTABLE	DISO	C0557459	Unfair dismissal from job	unfair dismissal from job
+JOB_INSTABLE	DISO	C0425095	Voluntarily redundant	voluntary resignation
+JOB_INSTABLE	DISO	C0041674	NOT EMPLOYED	without employment
+ACCESS2_MEANS	MEANS	RV001	Access to firearm	access to firearm
+ACCESS2_MEANS	MEANS	RV001	Access to firearm	access to handgun
+ACCESS2_MEANS	MEANS	RV001	Access to firearm	access to rifle
+ACCESS2_MEANS	MEANS	RV001	Access to firearm	access to shotgun
+ACCESS2_MEANS	MEANS	RV001	Access to firearm	access to gun
+ACCESS2_MEANS	MEANS	RV001	Access to firearm	firearm at home
+ACCESS2_MEANS	MEANS	RV001	Access to firearm	gun at home
+ACCESS2_MEANS	MEANS	RV001	Access to poision	access to pesticides
+ACCESS2_MEANS	MEANS	RV001	Access to bridge	lives near bridge
+ACCESS2_MEANS	MEANS	RV001	Access to train	lives near train
+ACCESS2_MEANS	MEANS	RV001	Access to train	lives near railway

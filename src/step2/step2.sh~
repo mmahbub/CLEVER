@@ -1,0 +1,1 @@
+python sequencer.py --lexicon ../../res/dicts/snomed4clever.txt --section-headers ../../res/headers.txt --main-targets SNOMED --snippet-length 125 --snippets --notes ../../res/corpus/mimic3/testnotes_formatted.txt --workers 2 --output ../../output/snomed --left-gram-context 3 --right-gram-context 2

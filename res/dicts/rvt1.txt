@@ -1,0 +1,113 @@
+2000|addiction drug therapies|DETOX_DRUG
+2001|addiction drug therapy|DETOX_DRUG
+2002|addiction therapy|DETOX_DRUG
+2003|opioid detox|DETOX_DRUG
+2004|drug detox|DETOX_DRUG
+2005|detoxication therapy|DETOX_DRUG
+2006|detoxification|DETOX_DRUG
+2007|drug addiction therapy|DETOX_DRUG
+2008|drug rehab|DETOX_DRUG
+2009|drug rehabilitation|DETOX_DRUG
+2010|narcotic withdrawal|DETOX_DRUG
+2011|narcotics withdrawal|DETOX_DRUG
+2012|drug withdrawal|DETOX_DRUG
+2013|opioid withdrawal state|DETOX_DRUG
+2014|substance use therapy|DETOX_DRUG
+2015|substance use treatment|DETOX_DRUG
+2016|therapy drug addiction|DETOX_DRUG
+2017|withdrawal narcotic|DETOX_DRUG
+2018|meth detox|DETOX_DRUG
+3000|food insecurity|FOOD_INSECURE
+3001|needs food stamps|FOOD_INSECURE
+3002|food insecurities|FOOD_INSECURE
+3003|food stamps|FOOD_INSECURE
+3004|insufficient food supply|FOOD_INSECURE
+3005|lack of food supply|FOOD_INSECURE
+4000|homeless|HOUSE_INSTABLE
+4001|housing lack|HOUSE_INSTABLE
+4002|lack of housing|HOUSE_INSTABLE
+4003|lives in squat|HOUSE_INSTABLE
+4004|living on the street|HOUSE_INSTABLE
+4005|living rough|HOUSE_INSTABLE
+4006|out sleeping|HOUSE_INSTABLE
+4007|sleeping in vehicle|HOUSE_INSTABLE
+4008|sleeping rough|HOUSE_INSTABLE
+4009|squatter|HOUSE_INSTABLE
+4010|temporary shelter|HOUSE_INSTABLE
+5000|criminal charge|JUSTICE
+5001|arrest by police|JUSTICE
+5002|arrested by police|JUSTICE
+5003|charged with crime|JUSTICE
+5004|criminal activity|JUSTICE
+5005|correctional institution resident|JUSTICE
+5006|prison record|JUSTICE
+5007|imprisoned|JUSTICE
+5008|imprisonment record|JUSTICE
+5009|in jail|JUSTICE
+5010|in prison|JUSTICE
+5011|incarcerate|JUSTICE
+5012|incarcerated|JUSTICE
+5013|inmates prison|JUSTICE
+5014|criminal law proceedings|JUSTICE
+5015|jail|JUSTICE
+5016|inmate|JUSTICE
+5017|probation|JUSTICE
+5018|prison inmate|JUSTICE
+5019|prison record|JUSTICE
+5020|prison sentence|JUSTICE
+5021|prisoner|JUSTICE
+5022|release from prison|JUSTICE
+5023|prosecution impending|JUSTICE
+5024|released from prison|JUSTICE
+5025|released on bail|JUSTICE
+5026|young offender|JUSTICE
+5027|juvenile delinquent|JUSTICE
+7000|military sexual trauma|MST
+7001|sexual abuse during military service|MST
+8000|lack of social support|SOCIAL_CONNECT
+8001|cohabitee left home|SOCIAL_CONNECT
+8002|divorce problems|SOCIAL_CONNECT_RS
+8003|divorce|SOCIAL_CONNECT_RS
+8004|feeling lonely|SOCIAL_CONNECT
+8005|husband left home|SOCIAL_CONNECT_RS
+8006|inadequate social support|SOCIAL_CONNECT
+8007|lack of social support|SOCIAL_CONNECT
+8008|lives alone|SOCIAL_CONNECT
+8009|loneliness|SOCIAL_CONNECT
+8010|lonely|SOCIAL_CONNECT
+8011|marital separation|SOCIAL_CONNECT_RS
+8012|personal relationship breakdown|SOCIAL_CONNECT
+8013|receives no social support|SOCIAL_CONNECT
+8014|relationship breakdown|SOCIAL_CONNECT
+8015|social outcast|SOCIAL_CONNECT
+8016|spouse left home|SOCIAL_CONNECT_RS
+8017|trial separation|SOCIAL_CONNECT_RS
+9000|fired from job|JOB_INSTABLE
+9001|jobless|JOB_INSTABLE
+9002|unemployed|JOB_INSTABLE
+9003|employment termination|JOB_INSTABLE
+9004|fired|JOB_INSTABLE
+9005|job loss|JOB_INSTABLE
+9006|job losses|JOB_INSTABLE
+9007|jobless|JOB_INSTABLE
+9008|joblessness|JOB_INSTABLE
+9009|loss of employment|JOB_INSTABLE
+9010|loss of job|JOB_INSTABLE
+9011|lost job|JOB_INSTABLE
+9012|not employed|JOB_INSTABLE
+9013|out of work|JOB_INSTABLE
+9014|unemployment|JOB_INSTABLE
+6000|access to firearm|ACCESS_MEANS
+6001|access to handgun|ACCESS_MEANS
+6002|access to rifle|ACCESS_MEANS
+6003|access to shotgun|ACCESS_MEANS
+6004|access to gun|ACCESS_MEANS
+6005|firearm at home|ACCESS_MEANS
+6006|gun at home|ACCESS_MEANS
+6007|access to pesticides|ACCESS_MEANS
+6008|lives near bridge|ACCESS_MEANS
+6009|lives near train|ACCESS_MEANS
+6010|lives near railway|ACCESS_MEANS
+6011|gun ownership|ACCESS_MEANS
+6012|owns gun|ACCESS_MEANS
+6013|handgun|ACCESS_MEANS
